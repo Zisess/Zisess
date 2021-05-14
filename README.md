@@ -1,9 +1,11 @@
 
 
 <p align="center">
-  <img width="950" height="300" src="https://github.com/Zisess/Zisess/blob/main/Zisess-Signature.gif?raw=true">
-    ⠀
+  <img width="900" height="250" src="https://github.com/Zisess/Zisess/blob/main/Zisess-Signature.gif?raw=true">
+</p>
 
+
+<p align="center">
  <a href="https://discord.gg/qvmtszPJ89">
   <img align="center" alt="Reach Me" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Reach Me
 </a>
