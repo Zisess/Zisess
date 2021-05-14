@@ -14,6 +14,9 @@
   
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8vau4x2rxx559vrmbwks8mhs&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zisess&label=Profile%20views&color=0e75b6&style=flat" alt="zisess" /> </p>
+
 <!---
 Zisess/Zisess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
