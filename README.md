@@ -36,13 +36,13 @@
 
   
   
-<p align="center" href="discord.gg/asAUJrZRSj"><br>
-  <img src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif"
-       width="900.5px" height="300.5px">
-  <br>
-  <img align="center" href="discord.gg/asAUJrZRSj" src="https://img.shields.io/discord/882105368187121675.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge">
-  
-</p>
+ <p align="center" ><br>
+          <a href="https://discord.com/invite/asAUJrZRSj">
+            <img alt="" src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif"
+            width="900.5px" height="300.5px">
+       <br>
+       <img alt="" src="https://img.shields.io/discord/882105368187121675.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge">
+          </a>
 <br>
 </div>
 </div>
