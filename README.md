@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://media0.giphy.com/headers/tverd/wnhJXkg9FM3P.gif">
 </div>
-<br>0
+<br>
 <div>
 <h2 align="left">            ~ 📇 I USE 📇 ~</h2>
 <p>
