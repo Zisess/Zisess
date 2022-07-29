@@ -37,7 +37,7 @@
   
   
  <p align="center" ><br>
-          <a href="https://discord.com/invite/asAUJrZRSj">
+          <a href="https://discord.com/invite/asAUrZRSj">
             <img alt="" src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif"
             width="900.5px" height="300.5px">
        <br>
